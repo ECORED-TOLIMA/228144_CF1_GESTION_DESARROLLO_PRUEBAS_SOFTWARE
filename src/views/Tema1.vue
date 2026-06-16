@@ -114,7 +114,7 @@
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Se basa en ciclos cortos de desarrollo llamados iteraciones o <em>sprints</em>, donde se entregan pequeñas funcionalidades del sistema de forma continua.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Flexibilidad, adaptación al cambio, trabajo colaborativo y retroalimentación constante del cliente.
     p(data-aos="fade-down") Cada uno de estos modelos propone una forma particular de organizar las actividades del desarrollo de <em>software</em>. Aunque comparten etapas similares, difieren en la manera en que se estructuran las fases, la interacción con los usuarios y la forma en que se gestionan los cambios durante el proyecto.
-    p.mb-0(data-aos="fade-down") A continuación, se presentan gráficamente algunos modelos del ciclo de vida del <em>software</em>:
+    p.mb-0(data-aos="fade-down") A continuación, se presentan algunos modelos del ciclo de vida del <em>software</em>:
     .row
       .col-12
         .px-5.py-4
